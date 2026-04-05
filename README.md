@@ -136,10 +136,6 @@ This hub eliminates scraping, unofficial sources, and fragmentation by offering 
 
 ✅ Designed for **global multilingual applications**.
 
-**Direct language index:**  
-- [Languages page inside repository](./docs/languages.md)
-- [Wiki Home](../../wiki)
-
 ---
 
 # 🌐 Supported Languages Table
