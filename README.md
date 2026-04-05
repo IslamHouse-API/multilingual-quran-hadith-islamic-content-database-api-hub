@@ -374,7 +374,6 @@ Yes, with proper attribution.
 - [https://quranenc.com](https://quranenc.com)
 - [https://hadeethenc.com](https://hadeethenc.com)
 - [Languages page](./docs/languages.md)
-- [Wiki Home](../../wiki)
 
 ---
 
