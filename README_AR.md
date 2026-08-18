@@ -21,6 +21,14 @@
 
 📧 **admin@islamhouse.com**
 
+<br>
+
+[![GitHub stars](https://img.shields.io/github/stars/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub?style=social)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub?style=social)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/forks)
+[![Share Repository](https://img.shields.io/badge/Share-Repository-0969da?style=flat-square&logo=github)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub)
+
+**⭐ إذا أفادك المستودع، ضع له نجمة وشاركه مع المطورين والجهات التي قد تحتاج إليه.**
+
 </div>
 
 ---
@@ -28,10 +36,10 @@
 <h2 dir="rtl" align="right">🚀 الوصول إلى واجهات API</h2>
 
 | المنصة | المحتوى | التوثيق |
-|---|---|---|
-| **IslamHouse API v3** | كتب، مقالات، فتاوى، صوتيات، مرئيات ومرفقات | [Postman](https://documenter.getpostman.com/view/7929737/TzkyMfPc) |
-| **QuranEnc API** | ترجمات معاني القرآن وبيانات السور والآيات | [QuranEnc API](https://quranenc.com/en/home/api) |
-| **HadeethEnc API** | الأحاديث وترجماتها وشروحها | [Postman](https://documenter.getpostman.com/view/5211979/TVev3j7q) |
+|---|---|:---:|
+| **IslamHouse API v3** | كتب، مقالات، فتاوى، صوتيات، مرئيات ومرفقات | [![Postman](https://img.shields.io/badge/Postman-Docs-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/7929737/TzkyMfPc) |
+| **QuranEnc API** | ترجمات معاني القرآن وبيانات السور والآيات | [![API Docs](https://img.shields.io/badge/API-Docs-2ea44f?style=flat-square&logo=readthedocs&logoColor=white)](https://quranenc.com/en/home/api) |
+| **HadeethEnc API** | الأحاديث وترجماتها وشروحها | [![Postman](https://img.shields.io/badge/Postman-Docs-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/5211979/TVev3j7q) |
 
 ---
 
@@ -337,6 +345,20 @@
 ---
 
 <div align="center">
+
+### ⭐ ساعد الآخرين على اكتشاف المستودع
+
+إذا كان هذا المستودع مفيدًا لك:
+
+**⭐ ضع نجمة للمستودع · 🔗 شاركه مع من يحتاجه · 🍴 اعمل Fork إذا أردت البناء عليه**
+
+[![Star this repo](https://img.shields.io/badge/⭐_Star-This_Repository-yellow?style=for-the-badge)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/stargazers)
+[![Fork this repo](https://img.shields.io/badge/Fork-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/fork)
+[![Share this repo](https://img.shields.io/badge/Share-With_Developers-0969da?style=for-the-badge&logo=github)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub)
+
+> **تعرف مطورًا أو مؤسسة قد تستفيد من هذه الواجهات؟ أرسل لهم رابط المستودع وساعد في وصول المحتوى الإسلامي الموثوق إلى مزيد من المشاريع.**
+
+---
 
 ### انشر الخير • احفظ النص • اذكر المصدر
 
