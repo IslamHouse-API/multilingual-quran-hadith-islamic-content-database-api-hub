@@ -1,174 +1,168 @@
-<!-- ================================================================== -->
-<!-- ================  OFFICIAL MULTILINGUAL API HUB  ================= -->
-<!-- ================================================================== -->
-
-<!--
-SEO / DISCOVERY KEYWORDS:
-Quran API, Hadith API, Islamic API, IslamHouse API, QuranEnc API, HadeethEnc API,
-Multilingual Islamic Data, Quran Translation API, Hadith Translation API,
-Islamic Knowledge API, Dawah API, Developer API, Islamic Content API,
-Quran API All Languages, Hadith API All Languages, Supported Languages,
-ISO Language Codes, Islamic Open Data, Quran Dataset, Hadith Dataset,
-Islamic AI, Islamic RAG, Islamic Chatbot, Multilingual Quran, Multilingual Hadith
--->
+<!-- README.md -->
+<!-- Keywords: Quran API, Hadith API, IslamHouse API, QuranEnc API, HadeethEnc API, Islamic API, Quran Dataset, Hadith Dataset, Islamic AI, RAG -->
 
 <div align="center">
 
-# Quran API • Hadith API • Islamic Content Gateway
+# Islamic Content API Hub for Developers
 
-### Official Unified Access Point for Multilingual Developers
+### Quran • Hadith • Books • Articles • Audio • Video
 
 **IslamHouse.com · QuranEnc.com · HadeethEnc.com**
 
 <br>
 
-![Languages](https://img.shields.io/badge/Approved%20Languages-147-success?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Languages-147-success?style=for-the-badge)
 ![Quran API](https://img.shields.io/badge/Quran-API-blue?style=for-the-badge)
-![Hadith API](https://img.shields.io/badge/Hadeeth-API-purple?style=for-the-badge)
-![IslamHouse](https://img.shields.io/badge/IslamHouse-API-orange?style=for-the-badge)
+![Hadith API](https://img.shields.io/badge/Hadith-API-purple?style=for-the-badge)
 ![API Access](https://img.shields.io/badge/API%20Access-Free-yellow?style=for-the-badge)
 ![Code License](https://img.shields.io/badge/Code%20License-MIT-lightgrey?style=for-the-badge)
-![Content Rights](https://img.shields.io/badge/Content%20Rights-Separate%20Terms-critical?style=for-the-badge)
 
 <br>
 
-> **Official Multilingual Islamic API Hub**  
-> Quran • Hadith • Books • Fatwas • Articles • Audio • Video • Translations • Global Islamic Content
+📧 **admin@islamhouse.com**
 
-📧 **Developer & rights contact:** `admin@islamhouse.com`
+<br>
+
+[![GitHub stars](https://img.shields.io/github/stars/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub?style=social)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub?style=social)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/forks)
+[![Share Repository](https://img.shields.io/badge/Share-Repository-0969da?style=flat-square&logo=github)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub)
+
+**⭐ If this repository helps you, please star it and share it with developers and organizations that may benefit from it.**
 
 </div>
 
 ---
 
-> [!IMPORTANT]
-> **License scope:** The MIT License in this repository applies to the repository's **source code and original technical documentation/examples only**. It does **not** automatically license Quran translations, Hadith content, tafsir, books, articles, fatwas, audio, video, datasets, or other Islamic content accessible through the referenced platforms. See [Content Usage & Rights](#-content-usage--rights).
+## 🚀 API Access
+
+| Platform | Content | Documentation |
+|---|---|:---:|
+| **IslamHouse API v3** | Books, articles, fatwas, audio, video, and attachments | [![Postman](https://img.shields.io/badge/Postman-Docs-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/7929737/TzkyMfPc) |
+| **QuranEnc API** | Quran meaning translations and Surah/Ayah data | [![API Docs](https://img.shields.io/badge/API-Docs-2ea44f?style=flat-square&logo=readthedocs&logoColor=white)](https://quranenc.com/en/home/api) |
+| **HadeethEnc API** | Hadith, translations, and explanations | [![Postman](https://img.shields.io/badge/Postman-Docs-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://documenter.getpostman.com/view/5211979/TVev3j7q) |
 
 ---
 
-## 📑 Contents
+## 🌱 Our Mission
 
-- [API Endpoints](#-api-endpoints)
-- [Purpose](#-purpose)
-- [Why This Hub Exists](#-why-this-hub-exists)
-- [Platform Overview](#-platform-overview)
-- [Content Types](#-content-types)
-- [Language Coverage](#-language-coverage)
-- [Approved Languages Directory](#-approved-languages-directory)
-- [Developer Use Cases](#-developer-use-cases)
-- [Integration Principles](#-integration-principles)
-- [Content Usage & Rights](#-content-usage--rights)
-- [FAQ](#-faq)
-- [Official Links](#-official-links)
-- [Contact](#-contact)
-- [License](#-license)
-- [Credits](#-credits)
+We want trusted Islamic knowledge to reach as many people as possible. You may download, publish, print, and integrate the content into apps, websites, and technical projects while preserving the original text and clearly citing the source.
+
+**Share beneficial knowledge, preserve the text faithfully, and cite the source.**
 
 ---
 
-# 🚀 API Endpoints
+## ✅ What Is Allowed?
 
-| Platform | Primary Content | Documentation |
-|---|---|---|
-| **IslamHouse API v3** | Books, articles, fatwas, audio, video, authors, categories, attachments | [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/7929737/TzkyMfPc) |
-| **QuranEnc API** | Quran translations, tafsir, Surah/Ayah metadata, translator/version metadata | [![QuranEnc Docs](https://img.shields.io/badge/QuranEnc-API-blue?style=for-the-badge)](https://quranenc.com/en/home/api) |
-| **HadeethEnc API** | Hadith texts, translations, explanations, classifications | [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/5211979/TVev3j7q) |
+- Downloading and republishing the content.
+- Printing and distributing it.
+- Storing it for offline use.
+- Using it in apps and websites.
+- Using it in commercial and non-commercial projects.
+- Using it for search, indexing, RAG, and AI assistants.
+- Changing formatting or file format as long as the original text itself is not changed.
 
-> [!TIP]
-> Start with the platform that matches your content need, then keep the original source and attribution metadata in your application from the beginning.
-
----
-
-# 📌 Purpose
-
-This repository serves **developers, researchers, institutions, and product teams worldwide** that need a single reference point for authentic multilingual Islamic content exposed through official platforms and APIs.
-
-It brings together access to:
-
-- **IslamHouse.com** → books, articles, fatwas, audio, video, authors, publishers, classifications, and other Islamic resources.
-- **QuranEnc.com** → Quran translations, tafsir, Surah/Ayah metadata, translator details, and version information.
-- **HadeethEnc.com** → verified Hadith translations, explanations, and subject-based categorization.
-
-**API access is free.** Content reuse, redistribution, offline bundling, commercial use, and other rights depend on the applicable content terms and rights holder.
+**You do not need prior permission if you follow the conditions below.**
 
 ---
 
-# 🎯 Why This Hub Exists
+## 📌 Republishing Conditions
 
-Developers often face four problems when building Islamic applications:
-
-1. **Fragmentation** — Quran, Hadith, books, audio, and multilingual resources are spread across different services.
-2. **Source quality** — unofficial datasets may omit provenance, translator information, or version metadata.
-3. **Language discovery** — supported languages can be difficult to identify consistently.
-4. **Rights clarity** — API access and content rights are not the same thing and must be handled separately.
-
-This hub provides a single, developer-friendly reference point for discovering the official APIs, supported content types, approved language directory, integration guidance, and rights information.
+1. **Do not alter the original text:** no additions, deletions, or changes to content that you attribute to our platforms.
+2. **Cite the source clearly:** IslamHouse.com, QuranEnc.com, or HadeethEnc.com, together with the author, translator, or publisher when available.
+3. **Keep version information:** especially translation version numbers and metadata from QuranEnc.
+4. **Update your copy:** when a newer version is released by the source.
+5. **Send corrections to us:** if you find a scholarly or linguistic issue, send it to the relevant platform so we can correct the official version.
+6. **Respect the nature of the content:** do not place inappropriate advertisements or materials next to Quran or Hadith content.
 
 ---
 
-# 🕌 Platform Overview
+## ✏️ Summaries, Abridgements, and Edits
 
-| Platform | Focus | Multilingual Coverage | Best For |
-|---|---|---|---|
-| **IslamHouse** | Books, articles, fatwas, audio, video, metadata | Broad multilingual coverage | Libraries, research, media, education, Da'wah platforms |
-| **QuranEnc** | Quran translations & tafsir | Multilingual Quran resources | Quran readers, translation tools, verse search, study apps |
-| **HadeethEnc** | Hadith translations & explanations | Multilingual Hadith resources | Hadith search, learning apps, citation and study tools |
+You may summarize, shorten, or rewrite a work, but the result becomes **your own independent work** and must not be presented as an edition issued or approved by our platforms.
 
----
+Do not use wording such as **“IslamHouse — adapted”** or **“QuranEnc — slightly edited”** if it could make readers think the modified version was issued or approved by us.
 
-# 📚 Content Types
+A suitable wording is:
 
-### IslamHouse
-
-- Books and downloadable attachments
-- Articles and research materials
-- Fatwas and scholarly answers
-- Audio lectures and recordings
-- Educational videos
-- Da'wah resources
-- Author and publisher metadata
-- Categories and classifications
-
-### QuranEnc
-
-- Quran translations
-- Tafsir where available
-- Surah and Ayah metadata
-- Translator information
-- Version information
-- Structured API responses
-
-### HadeethEnc
-
-- Hadith texts
-- Verified translations
-- Simplified explanations
-- Subject-based categorization
-- Structured metadata for integration
+> **“This summary was prepared using material published on IslamHouse.com. The summary itself was prepared independently by the project owner.”**
 
 ---
 
-# 🌍 Language Coverage
+## 🕋 Special Rules for QuranEnc Translations
 
-This repository uses the **approved 147-language directory** supplied by the project as its canonical language reference.
+When republishing Quran meaning translations from **QuranEnc.com**:
 
-> [!NOTE]
-> The directory below identifies the approved languages and ISO metadata used by the project. It does **not** mean that every platform or every content type is available in all 147 languages. Actual availability varies by platform, content type, translation, and release.
-
-**Directory fields:**
-
-- **Native Name** — canonical native-language label.
-- **ISO Code** — approved language code used by the directory.
-- **ISO Standard** — ISO 639 version associated with that code.
-- **Arabic Name** — canonical Arabic language name.
-- **English Name** — canonical English language name.
+1. Do not modify, add to, or delete from the translation text.
+2. Clearly name the publisher and source: **QuranEnc.com**.
+3. Include the translation version number when republishing it.
+4. Keep the translation version information.
+5. Send any scholarly or linguistic notes to QuranEnc.
+6. Update the translation when a new version is released.
+7. Do not place inappropriate advertisements next to translations of the meanings of the Quran.
 
 ---
 
-# 🌐 Approved Languages Directory
+## 📚 IslamHouse and HadeethEnc
 
-<details open>
-<summary><strong>View all 147 approved languages</strong></summary>
+The same principle applies to content from **IslamHouse** and **HadeethEnc**:
+
+**Publish, print, and share it — but preserve the original text, its metadata, and its source.**
+
+If you find a scholarly or linguistic issue, please send it to us instead of changing the official text while continuing to attribute that changed version to our platforms.
+
+---
+
+## 🚫 ISBN and Exclusive Rights
+
+**You may not obtain a new ISBN for our content, register it as a new edition under another publisher, or claim ownership or exclusive rights over it.**
+
+- Printing, publishing, and distribution are allowed under this policy.
+- Do not remove the original source, author, translator, or publisher information.
+- Do not register the material under your name as your own original edition.
+- Do not use a new ISBN to suggest to stores or readers that you own the rights to the material.
+
+If this happens, we reserve the right to report the listing to the store or publishing platform, request removal of the infringing product, and take appropriate steps to protect the rights and source information.
+
+---
+
+## 💰 Sales and Pricing
+
+We allow the sale of printed or physical copies when the purpose is to cover reasonable costs such as printing, preparation, shipping, distribution, and the continued availability of the material to those who need it.
+
+**We do not allow excessive pricing for the purpose of profiting from the content itself.**
+
+If the material is sold at an excessive price that is clearly inconsistent with reasonable costs, we reserve the right to object, submit a complaint, and request removal of the product from the store or platform.
+
+**Our goal is to sustain the spread of beneficial knowledge, not to turn it into an overpriced or monopolized product.**
+
+---
+
+## 🤖 Apps and Artificial Intelligence
+
+The content may be used in apps, websites, search systems, RAG systems, and AI assistants.
+
+If an application displays the original text, it must display it unchanged and with its source.
+
+A summary, explanation, or AI-generated text must not be presented as the original text issued by our platforms.
+
+---
+
+## 📄 Do I Need Written Permission?
+
+No, as long as you follow this policy.
+
+If an app store, government entity, institution, distributor, or other organization requires written confirmation, contact us:
+
+📧 **admin@islamhouse.com**
+
+---
+
+## 🌍 Approved Languages
+
+The project uses a unified directory of **147 approved languages**. Actual content availability varies by platform and content type.
+
+<details>
+<summary><strong>Show the approved language list (147 languages)</strong></summary>
 
 <br>
 
@@ -324,282 +318,36 @@ This repository uses the **approved 147-language directory** supplied by the pro
 
 </details>
 
-> Alternative Arabic names and aliases are maintained in the approved source registry but are intentionally omitted from this README table for readability.
-
 ---
 
-# 🧩 Developer Use Cases
+## 📝 License
 
-This hub can support projects such as:
+The **MIT License** applies to the repository code, original technical documentation, and code examples.
 
-- Quran applications and multilingual readers
-- Hadith search engines
-- Islamic learning platforms
-- Multilingual digital libraries
-- University and academic research tools
-- Search and indexing systems
-- AI assistants and chatbots
-- RAG-based Islamic knowledge applications
-- Mobile and web applications
-- Da'wah websites and content portals
-- Offline educational applications
-- Internal institutional knowledge systems
-
-> [!CAUTION]
-> A technical use case being listed here does **not** override the rights or conditions attached to the underlying content.
-
----
-
-# 🛠️ Integration Principles
-
-For reliable long-term integrations:
-
-| Principle | Recommended Practice |
-|---|---|
-| **Use official APIs** | Prefer the documented IslamHouse, QuranEnc, and HadeethEnc interfaces over scraping. |
-| **Preserve provenance** | Keep the original platform, translator, author, reviewer, publisher, reciter, and version metadata when available. |
-| **Preserve integrity** | Do not alter or misrepresent the meaning of source content. |
-| **Cache responsibly** | Cache or store data only within the rights and conditions applicable to the material. |
-| **Track versions** | Refresh stored content periodically when newer source versions are published. |
-| **Separate source from generated text** | AI-generated summaries or explanations must not be presented as verbatim source content. |
-| **Plan attribution early** | Build attribution into the product UI instead of adding it only at release time. |
-| **Verify unclear rights** | Request clarification before release when a use case is not clearly covered. |
-
----
-
-# ⚖️ Content Usage & Rights
-
-## 1. Code License vs. Content Rights
-
-| Item | License / Rights Position |
-|---|---|
-| Repository source code | **MIT License** |
-| Original technical examples and repository documentation | **MIT License**, unless a file explicitly states otherwise |
-| Quran translations and tafsir | Governed separately by the applicable QuranEnc / publisher / translator / rights-holder terms |
-| Hadith translations and explanations | Governed separately by the applicable HadeethEnc / contributor / rights-holder terms |
-| IslamHouse books, articles, fatwas, audio, video, and attachments | Governed separately by the applicable IslamHouse and rights-holder terms |
-| Third-party materials | Subject to the rights and conditions of the relevant third-party rights holder |
-
-> [!WARNING]
-> **API access is not the same as copyright ownership or blanket reuse permission.** The presence of a resource in an API or this repository does not automatically place that resource under the MIT License.
-
-## 2. Attribution
-
-When content is used, preserve and display the relevant attribution information whenever available, including:
-
-- Source platform: **IslamHouse**, **QuranEnc**, or **HadeethEnc**.
-- Translator or translation source.
-- Author or scholar.
-- Reviewer or supervisor.
-- Publisher or institution.
-- Reciter or reader for audio content.
-- Version or release metadata.
-
-## 3. Commercial & Revenue-Supported Applications
-
-Commercial, advertising-supported, subscription-based, or otherwise revenue-supported applications **may be permitted where the applicable content rights allow it**.
-
-The MIT License of this repository must **not** be interpreted as blanket commercial permission for every item exposed by the referenced platforms.
-
-If you require formal confirmation for a commercial project, contact:
-
-📧 **admin@islamhouse.com**
-
-## 4. Offline Storage, Caching & Bundling
-
-Offline storage, backend caching, bundling content inside an application, mirroring, or redistributing datasets may be permitted for some materials, but the exact permission depends on the source and rights holder.
-
-Before release, verify the applicable terms when your project involves:
-
-- Shipping content inside an app package.
-- Maintaining a long-term local copy.
-- Republishing a substantial dataset.
-- Operating a mirror or downstream API.
-- Redistributing downloadable files.
-- Delivering content through a third-party distributor or institution.
-
-## 5. AI, RAG, Search & Machine Learning
-
-The APIs can be used as building blocks for search, educational, AI-assisted, and retrieval-based applications, subject to the rights governing the underlying content.
-
-Permission to retrieve, index, search, or display content should **not** be assumed to grant permission to:
-
-- Train or fine-tune a model on the content.
-- Publish or redistribute a training dataset.
-- Remove attribution or provenance metadata.
-- Present generated output as an exact quotation from the original source.
-- Publish modified religious text as if it were the source text.
-
-If your AI use goes beyond normal retrieval, search, indexing, or display, request rights clarification before deployment.
-
-## 6. Content Integrity
-
-Religious texts, translations, explanations, and source materials must be handled faithfully.
-
-Technical operations such as formatting, pagination, indexing, search, caching, or UI presentation are acceptable only when they do not alter, misrepresent, or obscure the source and meaning.
-
-Generated summaries, commentary, translations, or AI outputs must be clearly distinguished from the original source content.
-
-## 7. Third-Party Materials
-
-Some materials available through the platforms may originate from translators, publishers, institutions, authors, reciters, or other third parties.
-
-Where a particular resource carries specific rights or conditions, those conditions take precedence over general repository documentation.
-
-## 8. When Written Permission Is Recommended
-
-Written confirmation is especially recommended when your project involves:
-
-- App Store or Google Play compliance review.
-- Institutional or government distribution.
-- Distribution through a commercial technology provider.
-- Offline bundling or redistribution of substantial content.
-- Printing or republishing.
-- Audio narration or video reuse.
-- Creation of downloadable content packages.
-- AI training or fine-tuning.
-- Redistribution of datasets.
-- Any use where the applicable rights are unclear.
-
-📧 **Rights & permission contact:** `admin@islamhouse.com`
-
----
-
-# ❓ FAQ
-
-### Is API access free?
-
-Yes. The referenced APIs are available for free access. **Free API access does not automatically mean that every item of content is licensed for every form of reuse or redistribution.**
-
-### Is an API key required?
-
-IslamHouse API v3 uses the public key documented in its official API documentation. QuranEnc and HadeethEnc do not require a separate private API key.
-
-### Does the MIT License cover Quran translations, Hadith content, books, audio, video, or datasets?
-
-No. The MIT License applies to the repository source code and original technical documentation/examples. Content rights are governed separately.
-
-### Can the content be modified?
-
-Do not alter or misrepresent the meaning of the source material. Technical formatting, indexing, search, caching, and presentation are acceptable when they preserve attribution, integrity, and meaning.
-
-### Can I use the content in a commercial app?
-
-Commercial or revenue-supported use may be permitted where the applicable content rights allow it. This repository does not grant blanket commercial rights over all content.
-
-### Can I store content offline or bundle it inside my application?
-
-Possibly, depending on the material and rights holder. If your project stores, bundles, republishes, mirrors, or redistributes substantial content, verify the applicable terms before release.
-
-### Can I use the APIs in an AI assistant, chatbot, RAG system, or search engine?
-
-Yes, these are supported technical use cases, subject to the rights governing the underlying content. Model training, fine-tuning, and redistribution of training datasets are **not automatically granted** by the repository license.
-
-### Is attribution required?
-
-Yes. Preserve the source platform and the available translator, author, reviewer, publisher, reciter, and version information.
-
-### What if a translation, book, audio file, or other item belongs to a third party?
-
-Any specific third-party rights or conditions remain applicable and take precedence over general repository guidance.
-
-### When should I request written permission?
-
-Request written confirmation when required by an app store, institution, distributor, partner, compliance team, or whenever your intended use is not clearly covered by the applicable rights information.
-
-📧 **Contact:** `admin@islamhouse.com`
-
----
-
-# 🔗 Official Links
-
-| Resource | Link |
-|---|---|
-| IslamHouse | [islamhouse.com](https://islamhouse.com) |
-| QuranEnc | [quranenc.com](https://quranenc.com) |
-| HadeethEnc | [hadeethenc.com](https://hadeethenc.com) |
-| IslamHouse API v3 Docs | [Postman Documentation](https://documenter.getpostman.com/view/7929737/TzkyMfPc) |
-| QuranEnc API Docs | [QuranEnc API](https://quranenc.com/en/home/api) |
-| HadeethEnc API Docs | [Postman Documentation](https://documenter.getpostman.com/view/5211979/TVev3j7q) |
-| Repository Languages Page | [`docs/languages.md`](./docs/languages.md) |
-
----
-
-# 📨 Contact
-
-For technical questions, rights clarification, or written permission requests:
-
-📧 **admin@islamhouse.com**
-
-Managed by:
-
-**IslamHouse.com · QuranEnc.com · HadeethEnc.com**
-
-When contacting us about rights, please include:
-
-- Project/application name.
-- Website or store link, if available.
-- Platforms: web, Android, iOS, desktop, institutional, etc.
-- Exact content or datasets you intend to use.
-- Languages involved.
-- Whether content will be stored offline or redistributed.
-- Whether the project includes advertising, subscriptions, paid features, or commercial distribution.
-- Whether AI, RAG, model training, or generated content is involved.
-- Whether you need a formal written permission letter.
-
----
-
-# 📝 License
-
-## Repository Code
-
-The source code and original technical documentation/examples in this repository are licensed under the **MIT License**, unless a file explicitly states otherwise.
-
-See [`LICENSE`](./LICENSE) for the full license text.
-
-## Islamic Content & Datasets
-
-The MIT License does **not** automatically apply to Quran translations, Hadith content, tafsir, books, articles, fatwas, audio, video, datasets, or other Islamic materials accessed through or referenced by this repository.
-
-Those materials remain subject to the applicable rights, attribution requirements, platform terms, and any third-party conditions associated with the specific content.
-
-For clarification or written confirmation:
-
-📧 **admin@islamhouse.com**
-
----
-
-# 🤝 Credits
-
-This developer hub brings together resources from:
-
-- **IslamHouse.com**
-- **QuranEnc.com**
-- **HadeethEnc.com**
-
-We also acknowledge the translators, authors, reviewers, publishers, institutions, reciters, scholars, and technical contributors whose work is represented through the referenced platforms.
+Islamic content is governed by the usage policy described in this README.
 
 ---
 
 <div align="center">
 
-### Authentic Islamic content • Multilingual access • Developer-friendly integration
+### ⭐ Help Others Discover This Repository
 
-A unified initiative to help developers build reliable Islamic applications using official multilingual resources.
+If this repository is useful to you:
 
-⭐ **If this repository helps your project, consider starring it so other developers can discover it.**
+**⭐ Star the repository · 🔗 Share it with others · 🍴 Fork it if you want to build on it**
+
+[![Star this repo](https://img.shields.io/badge/⭐_Star-This_Repository-yellow?style=for-the-badge)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/stargazers)
+[![Fork this repo](https://img.shields.io/badge/Fork-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub/fork)
+[![Share this repo](https://img.shields.io/badge/Share-With_Developers-0969da?style=for-the-badge&logo=github)](https://github.com/IslamHouse-API/multilingual-quran-hadith-islamic-content-database-api-hub)
+
+> **Know a developer or organization that could benefit from these APIs? Send them the repository link and help trusted Islamic content reach more projects around the world.**
+
+---
+
+### Share Beneficial Knowledge • Preserve the Text • Cite the Source
+
+**IslamHouse.com · QuranEnc.com · HadeethEnc.com**
+
+📧 **admin@islamhouse.com**
 
 </div>
-
-<!--
-Additional discovery keywords:
-Multilingual Quran API Hub, Official Islamic API, IslamHouse API, QuranEnc API,
-HadeethEnc API, Global Islamic Data API, Quran Dataset, Hadith Dataset,
-Islamic Content Database, Multilingual Quran Dataset, Multilingual Hadith Dataset,
-Supported Languages, ISO Codes, Islamic AI API, Quran RAG, Hadith RAG,
-Islamic Chatbot API, Islamic Research API, Islamic Developer Resources
--->
-
-<!-- ================================================================== -->
-<!-- ========================  END README  ============================= -->
-<!-- ================================================================== -->
